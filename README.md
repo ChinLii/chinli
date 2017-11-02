@@ -1,4 +1,4 @@
 # ChinLi
 Personal website.
 
-http://chinli.herokuapp.com
+http://www.chinli.info
